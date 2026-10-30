@@ -1,0 +1,9 @@
+Aureon – © 2026 Aureon. Alle Rechte vorbehalten.
+
+Diese Software (Programmcode, Design, Logo, Texte und Grafiken) ist urheberrechtlich geschützt.
+Erlaubt ist ausschließlich die private Nutzung der App über die offizielle Adresse.
+Nicht erlaubt sind insbesondere: Kopieren, Herunterladen zur Weiterverwendung, Verändern,
+Nachbauen, Weitergeben, Veröffentlichen oder kommerzielles Verwenden – ganz oder in Teilen –
+ohne vorherige schriftliche Erlaubnis.
+
+Enthaltene Fremdsoftware: Anthropic TypeScript SDK (MIT-Lizenz, siehe anthropic-sdk.LICENSE.txt).
